@@ -1,2 +1,2 @@
 # SQL_Course
-SQL Exercises
+My SQL Exercises
